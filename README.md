@@ -1,4 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+It manages a blog where you can ask questions, but they will not be answered at 
+least for mow. However they cam be deleded users with persmission can delete.
 
 ## Getting Started
 
